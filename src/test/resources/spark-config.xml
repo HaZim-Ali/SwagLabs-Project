@@ -14,10 +14,10 @@
         <protocol>https</protocol>
 
         <!-- title of the document -->
-        <documentTitle>AMIT Project</documentTitle>
+        <documentTitle>SwagLabs HaZim Aly</documentTitle>
 
         <!-- report name - displayed at top-nav -->
-        <reportName>AMIT Project UI </reportName>
+        <reportName>SwagLabs HaZim Aly </reportName>
 
         <!-- view report without internet -->
         <offlineMode>true</offlineMode>
